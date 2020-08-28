@@ -1,32 +1,21 @@
 {
-  "logo": {
-    "text": "Hexo Doc Theme Seed",
-    "type": "link",
-    "path": "index.html"
-  },
-  "main": [
-    {
-      "text": "SWAGGER",
-      "type": "label"
-    },
-    {
-      "text": "UI",
-      "type": "link",
-      "path": "swagger/ui.html"
-    },
-    {
-      "text": "To HTML",
-      "type": "link",
-      "path": "swagger/to-html.html"
-    },
-    {
-      "text": "SUPPORT AND FEEDBACK",
-      "type": "label"
-    },
-    {
-      "text": "Raise an Issue on Github",
-      "type": "link",
-      "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new"
-    }
-  ]
+  "logo":
+    { "text": "Hexo Doc Theme Seed", "type": "link", "path": "index.html" },
+  "main":
+    [
+       { "text": "Learning", "type": "label" },
+      { "text": "Python Tutorial", "type": "link", "path": "py.html" },
+      { "text": "Java Tutorial", "type": "link", "path": "java.html" },
+
+      { "text": "SWAGGER", "type": "label" },
+
+      { "text": "UI", "type": "link", "path": "swagger/ui.html" },
+      { "text": "To HTML", "type": "link", "path": "swagger/to-html.html" },
+      { "text": "SUPPORT AND FEEDBACK", "type": "label" },
+      {
+        "text": "Raise an Issue on Github",
+        "type": "link",
+        "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new",
+      },
+    ],
 }

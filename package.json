@@ -2,16 +2,19 @@
   "name": "hexo-theme-doc-seed",
   "version": "0.1.0",
   "hexo": {
-    "version": "3.3.9"
+    "version": "3.9.0"
   },
   "dependencies": {
-    "hexo": "^3.3.8",
-    "hexo-cli": "^1.0.3",
+    "hexo": "^5.1.1",
+    "hexo-cli": "^4.2.0",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-less": "^0.2.0",
-    "hexo-renderer-marked": "^0.2.10",
+    "hexo-renderer-marked": "^3.1.0",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-server": "^0.2.1",
     "hexo-theme-doc": "^1.0.0-rc.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
